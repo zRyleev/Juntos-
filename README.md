@@ -26,14 +26,14 @@ El Sprint 1 se centró en la creación de la Landing Page informativa y los mock
 
 Este proyecto fue desarrollado por el equipo de estudiantes de la **Universidad Peruana de Ciencias Aplicadas (UPC)**, Ciclo 2025-02.
 
-| Rol Principal (Simulado) | Nombre del Miembro | Código de Estudiante |
-| :--- | :--- | :--- |
-| **Scrum Master / Backend** | Jose David Falcon Alzamora | U202316121 |
-| **UX/UI Designer** | Benjamin Peraltilla Herrera | U202314538 |
-| **Frontend Developer** | Alberto Alfaro Mallma | U20241A267 |
-| **Analista de Requisitos** | Ronny Huerta Ramirez | U202215022 |
-| **Documentación / Testing** | Josue Antonio Flores Apaico | U20201F773 |
-| **Data Analyst / Tester** | Piero Medina Benavente | U20241D473 |
+| Nombre del Miembro | Código de Estudiante |
+| :--- | :--- |
+| Jose David Falcon Alzamora | U202316121 |
+| Benjamin Peraltilla Herrera | U202314538 |
+| Alberto Alfaro Mallma | U20241A267 |
+| Ronny Huerta Ramirez | U202215022 |
+| Josue Antonio Flores Apaico | U20201F773 |
+| Piero Medina Benavente | U20241D473 |
 
 ## 🔗 Enlaces Importantes
 
