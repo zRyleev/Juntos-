@@ -1,4 +1,4 @@
-![Imagen de WhatsApp 2025-11-16 a las 21 54 02_788da8c2](https://github.com/user-attachments/assets/bf525a53-e444-4181-badf-4fd79f80d103)# 👵 JUNTOS+ | Un Espacio para la Amistad y el Bienestar
+# 👵 JUNTOS+ | Un Espacio para la Amistad y el Bienestar
 
 ## 🌟 Misión del Proyecto
 
